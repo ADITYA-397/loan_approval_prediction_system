@@ -1,16 +1,3 @@
-"""
-Loan Approval Prediction System
-Author: Aditya Kadam
-Purpose: End-to-end loan approval classification and interactive Streamlit app.
-
-Dataset:
-    loan_approval_dataset.csv
-
-Run:
-    python loan_approval_prediction.py
-or:
-    streamlit run loan_approval_prediction.py
-"""
 
 import os
 import warnings
